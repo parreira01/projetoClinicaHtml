@@ -1,0 +1,28 @@
+
+.header{
+    flex-wrap: wrap;
+    
+}
+
+
+#especialidadeDaClinica {
+    display:block;
+    padding: auto;
+    color:rgb(14, 104, 146);
+    background-color: aquamarine;
+    text-align: center;
+}
+
+#logoDaClinica {
+    display:block;
+    position: relative;
+    border: 1rem;
+    left: 400px;
+    border-color: black;
+    padding: auto;
+    margin: 1px;
+    align-items: center;
+    width: 130rem;
+
+}
+ 
